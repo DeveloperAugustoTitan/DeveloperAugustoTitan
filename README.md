@@ -4,8 +4,6 @@
 
 🚀 Atualmente trabalhando com C# / .NET, e SQL Server
 
-🔭 Confira meus projetos abaixo!
-
 ---
 
 ## 🛠️ Tecnologias
