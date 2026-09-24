@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou José Augusto
 
-<!--
-**DeveloperAugustoTitan/DeveloperAugustoTitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor de software
 
-Here are some ideas to get you started:
+🚀 Atualmente trabalhando com C# / .NET, e SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Confira meus projetos abaixo!
+
+---
+
+## 🛠️ Tecnologias
+
+- C#
+- Winforms
+- .NET
+- React
+- JavaScript
+- Typescript
+- PostgreSQL
+- SQL Server
+- Git
+
+📫 - How to reach me: gutomourao05@gmail.com
